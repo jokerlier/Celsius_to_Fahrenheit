@@ -1,4 +1,4 @@
-var ctof = require('./ctof.js')
+var ctof = require('./ctof.js')                //test
 var ftoc = require('./ftoc.js')
 
 var C = function (ctof) {
